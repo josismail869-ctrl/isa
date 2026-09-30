@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1788816601344,
+      "tag": "0000_spotty_betty_ross",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1788816744648,
+      "tag": "0001_gorgeous_jack_power",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1790764523560,
+      "tag": "0002_email_password_auth",
+      "breakpoints": true
+    }
+  ]
+}
